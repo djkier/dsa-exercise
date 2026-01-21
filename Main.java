@@ -1,4 +1,6 @@
 import dsexercises.arrays.*;
+import dsexercises.linkedlist.*;
+
 
 public class Main {
 
@@ -7,7 +9,10 @@ public class Main {
 //        Array Exercises
 //        ArrayExercise1.run();
 //        ArrayExercise2.run();
-        ArrayExercise3.run();
+//        ArrayExercise3.run();
+
+//        LinkedList
+        LinkedListExercise1.run();
 
     }
 }
