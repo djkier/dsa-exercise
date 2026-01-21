@@ -1,5 +1,6 @@
 import dsexercises.arrays.*;
 import dsexercises.linkedlist.*;
+import dsexercises.queue.*;
 import dsexercises.stacks.*;
 
 
@@ -17,7 +18,9 @@ public class Main {
 
 //        Stacks
 //        StacksExercise1.run();
-        StacksExercise2.run();
+//        StacksExercise2.run();
 
+//        Queue
+        QueueExercise1.run();
     }
 }
