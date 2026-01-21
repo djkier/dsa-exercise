@@ -16,8 +16,8 @@ public class Main {
 //        LinkedListExercise1.run();
 
 //        Stacks
-        StacksExercise1.run();
-
+//        StacksExercise1.run();
+        StacksExercise2.run();
 
     }
 }
