@@ -6,7 +6,8 @@ public class Main {
 
 //        Array Exercises
 //        ArrayExercise1.run();
-        ArrayExercise2.run();
+//        ArrayExercise2.run();
+        ArrayExercise3.run();
 
     }
 }
