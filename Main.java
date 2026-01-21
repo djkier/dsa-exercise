@@ -1,5 +1,6 @@
 import dsexercises.arrays.*;
 import dsexercises.linkedlist.*;
+import dsexercises.stacks.*;
 
 
 public class Main {
@@ -12,7 +13,11 @@ public class Main {
 //        ArrayExercise3.run();
 
 //        LinkedList
-        LinkedListExercise1.run();
+//        LinkedListExercise1.run();
+
+//        Stacks
+        StacksExercise1.run();
+
 
     }
 }
